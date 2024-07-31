@@ -54,3 +54,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Salamander and Other Stories(Sanshouo) by Masuji Ibuse
 8. One Hundred Years of Solitude by Gabriel García Márquez
 9. "Yukiguni" Yasunari Kawabata
+10. "Kokoro" Soseki Natsume
