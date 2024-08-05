@@ -8,3 +8,4 @@ what is your favourite Anime? : )
 4. sycho-Pass
 5. Jujutsh Kaisen
 6. Bleach
+
