@@ -7,4 +7,5 @@ what is your favourite Anime? : )
 3. yuruCamp
 4. sycho-Pass
 5. Jujutsh Kaisen
-6. Frieren: Beyond Journey's End
+6. Bleach
+
