@@ -55,3 +55,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. One Hundred Years of Solitude by Gabriel García Márquez
 9. "Yukiguni" Yasunari Kawabata
 10. "Kokoro" Soseki Natsume
+11. "Le Petit Prince" Antoine de Saint-Exupéry
